@@ -23,26 +23,25 @@ It includes functionality for login, pagination, search,alert,modal, edit, and d
 ---
 
 ## 📦 Installation
+--clone repo--
+git clone https://github.com/utpanna-pradhan/User-management.git
+cd User-management
 
-1. **Clone the repo**
-
-```terminal
-git clone 
-cd
-
-2. **Install dependencies**
+--install dependencies
   npm install
+  npm start
 
-📤 Live Demo
+
+## 📤 Live Demo
 https://user-management-3zba.vercel.app/
 
-📸 Screenshots
-![Screenshot (522)](https://github.com/user-attachments/assets/7e394076-8249-4367-aa2d-bb0e5cbe32b3)
+## 📸 Screenshots
 
 
-![Screenshot (524)](https://github.com/user-attachments/assets/7062179a-4d14-4dbc-b6be-be7ed223954b)
+
+![Screenshot (522)](https://github.com/user-attachments/assets/09c3d258-57b2-4a10-bce9-89914c3a9711)
+
+![Screenshot (524)](https://github.com/user-attachments/assets/20cabb62-0443-4081-a547-d02c55209650)
 
 
-![Screenshot (525)](https://github.com/user-attachments/assets/8d1f3816-949f-4a2c-be74-666a09c435cc)
-
-
+![Screenshot (525)](https://github.com/user-attachments/assets/e328aea7-793d-4c45-bf4c-17d3a0723d43)
