@@ -1,4 +1,4 @@
-// src/pages/Users.js
+
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import '../Stylesheet/Users.css'
@@ -75,17 +75,7 @@ const modal = Modal.getOrCreateInstance(modalElement);
 modal.show();
   };
 
-//   const handleDelete = async (id) => {
-//     try {
-//       await axios.delete(`https://reqres.in/api/users/${id}`);
-//       setUsers(users.filter(user => user.id !== id));
-//       setMessage('User deleted successfully!');
-//       setVariant('success');
-//     } catch (error) {
-//       setMessage('Error deleting user.');
-//       setVariant('danger');
-//     }
-//   };
+
 const handleDelete = async (id) => {
     try {
       await axios.delete(`https://reqres.in/api/users/${id}`);
